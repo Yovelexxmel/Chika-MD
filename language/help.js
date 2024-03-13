@@ -456,24 +456,24 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+  *≻* Sewa Bot 20k (1 minggu)
+  *≻* Sewa Bot 30k (1 bulan)
+  *≻* Sewa Bot 50k (Permanen)
 
   *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
+  *≻* Jadi Bot 25k Tidak Owner (1 minggu)
+  *≻* Jadi Bot + Owner 55k (1 bulan)
+  *≻* Jadi Bot + Owner 100k (Permanen)
 
   *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
+  *≻* Run Bot 25k (1 minggu)
+  *≻* Run Bot 42k (1 bulan)
+  *≻* Run Bot 60k (Permanen)
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
-  wa.me/${ownernomer}
+  wa.me/${088293455310}
 `
 }
 
@@ -961,6 +961,6 @@ exports.thanksto = () => {
   *≻* Deff
   *≻* Sanzy
   *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Yovelex
 `
 }
